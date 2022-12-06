@@ -59,3 +59,36 @@ working and shootable guns
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
 Well, to begin with. The platform ROBLOX uses lua, so I will be picking up another language. Thing I will need to research for this project is on how ROBLOX studio works and how to interact with all the provided tools within the platform. I will be building the map and scripting the components in the game with the help of my team mate but I don't think he will really build since I have prior experience but he does not.
+
+
+
+# Status Report
+
+#### Your name
+
+Enamul Hoque
+
+#### Your section leader's name
+
+Xinwen (Ellen) Zhang
+
+#### Project title
+
+Zombie Survival/Aim Trainer
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+I've built a map, and a weapon system (gun and inf ammo), time system, kill system and a start/end system.
+
+#### What have you not done for your project yet?
+
+Some bug fixes that I am trying to find resolutions to.
+
+#### What problems, if any, have you encountered?
+
+Some bugs such as zombies not spawning, or not doing damage to player. Other problems include the time system freezing at times. 
+
